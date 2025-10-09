@@ -11,8 +11,8 @@
 //
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/remove-element/
-// Time Complexity: 0(n)
-// Space Complexity: 0(1)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 // Runtime: 0ms
 // Memory: 11.74 MB
 

@@ -7,8 +7,8 @@
 //
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/two-sum/description/
-// Time Complexity: 0(n^2)
-// Space Complexity: 0(1)
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
 // Runtime: 45ms
 // Memory: 13.99 MB
 
